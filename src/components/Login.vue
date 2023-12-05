@@ -40,6 +40,7 @@ export default {};
       align-items: center;
       justify-content: center;
       width: 20%;
+      min-width: 300px;
       height: 350px;
       border-radius: 10px;
       background: #00000060;
